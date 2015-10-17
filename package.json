@@ -1,0 +1,19 @@
+{
+  "name": "ractive-drag-and-drop-files",
+  "version": "1.0.0",
+  "description": "A Ractive event proxy wrapper for https://github.com/mikolalysenko/drag-and-drop-files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TehShrike/ractive-drag-and-drop-files.git"
+  },
+  "author": "TehShrike",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/TehShrike/ractive-drag-and-drop-files/issues"
+  },
+  "homepage": "https://github.com/TehShrike/ractive-drag-and-drop-files#readme"
+}
